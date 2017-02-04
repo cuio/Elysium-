@@ -2,7 +2,7 @@ Elysium 0.8.9
 ====================
 
 Specifications
-
+---------------------
 - Algorithm :-Scrypt
 - Type PoW
 - Block halving :- 120,000 blocks
